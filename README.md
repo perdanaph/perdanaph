@@ -14,6 +14,8 @@ Hi, i am Perdana Putro Harwanto, i am a student of computer science, now i am cu
 - 💬 Ask me about Anime, Node JS, Python
 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdanaph&layout=compact&theme=dracula" />
+
 ### Things I code with:
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
