@@ -8,7 +8,7 @@ Hi, i am Perdana Putro Harwanto, i am a student of computer science, now i am cu
 
 ### It's me: 
 
-- 🌱 I’m currently learning Back-end development
+- 🌱 I’m currently learning Back-end development, end react
 - 👯 I’m looking to collaborate on web dev
 - 🤔 I’m looking for help with web dev
 - 💬 Ask me about Anime, Node JS, Python
