@@ -12,8 +12,6 @@ I'am Perdana Putro Harwanto, I'am a student of computer science, now I currently
 - 👯 I’m looking to collaborate on web dev
 - 🤔 I’m looking for help with web dev
 - 💬 Ask me about Anime, Node JS, Python
-
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdanaph&layout=compact" />
 
 ### Things I code with:
@@ -27,5 +25,6 @@ I'am Perdana Putro Harwanto, I'am a student of computer science, now I currently
   <img alt="postgre" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="next js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="express js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  
 </p>
+
+[![@perdanaph's Holopin board](https://holopin.io/api/user/board?user=perdanaph)](https://holopin.io/@perdanaph)
