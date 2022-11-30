@@ -4,14 +4,15 @@
 I'am Perdana Putro Harwanto, I'am a student of computer science, now I currently learning on Back-End Web Development
 </p>
 
-<img src="https://media4.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif?cid=ecf05e4787z7qnzhrv4tbjb4093ev9hvlcc022u38r9tgq91&rid=giphy.gif&ct=g" width="50%">
+<img src="https://media0.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif?cid=790b76110988009e133f32cd259ab5fa7020e5644a5d290c&rid=giphy.gif&ct=g" width="50%">
+
 
 ### About Me: 
 
 - 🌱 I’m currently learning Back-end Development, end for Front-end I’m currently learning React Framework
 - 👯 I’m looking to collaborate on web dev
 - 🤔 I’m looking for help with web dev
-- 💬 Ask me about Anime, Node JS, Python
+- 💬 Ask me about Node JS, Python
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdanaph&layout=compact" />
 
 ### Things I code with:
