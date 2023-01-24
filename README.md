@@ -1,19 +1,18 @@
-### Hello There <a href="https://perdanaph.github.io/mybio/index.html"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hello There, I'm <strong style="text-decoration: underline">Perdana</strong> <a href="https://perdanaph.github.io/mybio/index.html"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
+<br/>
+<h1 style="text-align:center; font-size: 24px; font-weight: bolder; border-bottom: 1px solid"> I'm a Backend Developer ⚡</h1>
 <p>
-I'am Perdana Putro Harwanto, I'am a student of computer science, now I currently learning on Back-End Web Development
+My name is Perdana Putro Harwanto. I am a student of Informatics Engineering. Currently i'am studying in website development especialy on Backend Web Development
 </p>
 
-<img src="https://media0.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif?cid=790b76110988009e133f32cd259ab5fa7020e5644a5d290c&rid=giphy.gif&ct=g" width="50%">
+
+<br/>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdanaph&layout=compact&theme=dracula" />
+</p>
 
 
-### About Me: 
-
-- 🌱 I’m currently learning Back-end Development, end for Front-end I’m currently learning React Framework
-- 👯 I’m looking to collaborate on web dev
-- 🤔 I’m looking for help with web dev
-- 💬 Ask me about Node JS, Python
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdanaph&layout=compact" />
 
 ### Things I code with:
 <p>
@@ -28,7 +27,11 @@ I'am Perdana Putro Harwanto, I'am a student of computer science, now I currently
   <img alt="express js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </p>
 
-<br>
-<br>
+<br/>
+<h2>🤝 Contact Me</h2>
 
-[![@perdanaph's Holopin board](https://holopin.io/api/user/board?user=perdanaph)](https://holopin.io/@perdanaph)
+[![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/perdana-putro-harwanto-1515a5245/)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/per.danaph/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:danangputro9@gmail.com)
+
+
