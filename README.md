@@ -3,7 +3,7 @@
 <br/>
 <h1 style="text-align:center; font-size: 24px; font-weight: bolder; border-bottom: 1px solid"> I'm a Backend Developer ⚡</h1>
 <p>
-My name is Perdana Putro Harwanto. I am a student of Informatics Engineering. Currently i'am studying in website development especialy on Backend Web Development
+My name is Perdana Putro Harwanto. I am a student of Informatics Engineering. Currently i'am studying in website development especialy on Backend Web Development. I'am is Javascript and PHP enthusiast 🤙
 </p>
 
 
