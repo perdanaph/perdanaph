@@ -1,9 +1,9 @@
 ### Hello There, I'm <strong style="text-decoration: underline">Perdana</strong> <a href="https://perdanaph.github.io/mybio/index.html"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 <br/>
-<h1 style="text-align:center; font-size: 24px; font-weight: bolder; border-bottom: 1px solid"> I'm a Backend Developer ⚡</h1>
+<h1 style="text-align:center; font-size: 24px; font-weight: bolder; border-bottom: 1px solid"> I'm a Fullstack Developer ⚡</h1>
 <p>
-My name is Perdana Putro Harwanto. I am a student of Informatics Engineering. Currently i'am studying in website development especialy on Backend Web Development. I'am is Javascript and PHP enthusiast 🤙😛
+My name is Perdana Putro Harwanto. I am a student of Informatics Engineering. Currently i'am studying in Fullstack Web development. I'am is Javascript and PHP enthusiast 🤙😛
 </p>
 
 
