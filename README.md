@@ -3,7 +3,7 @@
 <br/>
 <h1 style="text-align:center; font-size: 24px; font-weight: bolder; border-bottom: 1px solid"> I'm a Fullstack Developer ⚡</h1>
 <p>
-My name is Perdana Putro Harwanto. I am a student of Informatics Engineering. Currently i'am studying in Fullstack Web development. I'am is Javascript and PHP enthusiast 🤙😛
+My name is Perdana Putro Harwanto. I am a student of Informatics Engineering. Currently i'am studying in Fullstack Web development. I'am is Javascript (Typescript) and Java (Springboot) enthusiast 🤙😛
 </p>
 
 
